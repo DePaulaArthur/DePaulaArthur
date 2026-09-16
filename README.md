@@ -2,47 +2,58 @@
 
 Software Engineering student focused on Python, Data Analysis and Artificial Intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://bit.ly/LinkedinArthurdePaula)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/arthu.zip/)
+<p align="left">
+  <a href="https://bit.ly/LinkedinArthurdePaula">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arthu.zip/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-## About me
+## About
 
-I'm a Software Engineering student currently building my foundation in programming and software development.
+I'm a Software Engineering student building my foundation in programming and software development.
 
-I'm studying Python, Data Analysis and Python applied to Artificial Intelligence. I also work on practical projects to apply what I learn and improve my programming skills.
+My current studies focus on Python, Data Analysis and Python applied to Artificial Intelligence. I'm also learning backend development, databases and software engineering practices through practical projects.
 
-My current focus is strengthening my knowledge of programming logic, backend development, databases and software engineering.
+I use this profile to document my projects, studies and progress as I develop my technical skills.
 
-## Technologies
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,mysql" />
+</p>
+
+## Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Intermediate%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Study-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Study-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Study-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ## Projects
 
 ### FastTask
 
-A task management API built with Python and FastAPI.
+Task management API developed with Python and FastAPI.
 
-The project focuses on practicing backend development, API routes, CRUD operations, data handling and programming logic.
+The project focuses on practicing:
 
-## Currently learning
+* REST API development
+* CRUD operations
+* Python programming
+* Data handling
+* Backend fundamentals
 
-* Python
-* Data Analysis
-* Python for Artificial Intelligence
-* SQL
-* FastAPI
-* Software Engineering
-* Git and GitHub
+## What I'm Working On
 
-## Goals
-
-* Improve my Python skills
-* Build practical software projects
-* Develop stronger backend skills
-* Learn more about Data Analysis and Artificial Intelligence
-* Build a solid software development portfolio
+* Improving my Python skills
+* Building practical projects
+* Learning Data Analysis
+* Studying Python for Artificial Intelligence
+* Improving my SQL knowledge
+* Exploring backend development with FastAPI
+* Building a stronger software development portfolio
